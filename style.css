@@ -1,0 +1,118 @@
+.h1head{
+  font-family: 'Sacramento';
+  color: #66BFBF;
+}
+body{
+  margin: 0;
+  text-align: center;
+  font-family:serif;
+}
+
+h2{
+  color:#66BFBF
+}
+h3{
+  color: #66BFBF;
+}
+.top{
+  background-color:#EAF6F6;
+
+}
+.web{
+  color: #66BFBF;
+}
+
+.bottom-cloud{
+  position: absolute;
+  left: 250px;
+  bottom: 450px;
+  
+}
+.top-cloud{
+  position: absolute;
+  right: 300px;
+  top: 40px;
+  
+}
+.computerimg{
+  border-radius: 50%;
+  width: 20%;
+  float: left;
+  margin-right: 30px;
+}
+.chilli-img{
+  width: 20%;
+  float: right;
+  margin-left: 30px;
+}
+.skill-row{
+  width: 50%;
+ margin: 100px auto 100px auto;
+ text-align: left;
+ 
+}
+
+.middle-container{
+  padding-top: 100px;
+}
+.intro{
+  width: 30%;
+  margin: auto;
+}
+p{
+  line-height: 2;
+}
+hr{
+ border: dotted #EAF6F6 6px;
+ border-bottom: none;
+ width: 4%;
+ margin: 100px auto;
+}
+.desc{
+ width: 30%;
+ margin: 40px auto 40px;
+}
+  .btn {
+    background: #81b7db;
+    background-image: -webkit-linear-gradient(top, #81b7db, #17acbd);
+    background-image: -moz-linear-gradient(top, #81b7db, #17acbd);
+    background-image: -ms-linear-gradient(top, #81b7db, #17acbd);
+    background-image: -o-linear-gradient(top, #81b7db, #17acbd);
+    background-image: linear-gradient(to bottom, #81b7db, #17acbd);
+    -webkit-border-radius: 8;
+    -moz-border-radius: 8;
+    border-radius: 8px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #256c99;
+    background-image: -webkit-linear-gradient(top, #256c99, #2e7eb3);
+    background-image: -moz-linear-gradient(top, #256c99, #2e7eb3);
+    background-image: -ms-linear-gradient(top, #256c99, #2e7eb3);
+    background-image: -o-linear-gradient(top, #256c99, #2e7eb3);
+    background-image: linear-gradient(to bottom, #256c99, #2e7eb3);
+    text-decoration: none;
+  }
+  .bottom-container{
+    margin-top: 50px;
+    background-color: #66BFBF;
+    padding: 50px 0 20px;
+ }
+ a{
+  color: #11999E;
+  margin: 10px 20px;
+ }
+ a:hover{
+  color: #EAF6F6;
+  text-decoration: none;
+ }
+ .copywrite{
+  color: #EAF6F6;
+  font-size: 0.75rem;
+  padding: 20px 0;
+ }
